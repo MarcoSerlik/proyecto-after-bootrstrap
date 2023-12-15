@@ -1,0 +1,39 @@
+.c-azul {
+  color: #0e153a;
+}
+
+.bg-azul {
+  background-color: #0e153a;
+}
+
+.c-violeta {
+  color: #8011f2;
+}
+
+.bg-violeta {
+  background-color: #8011f2;
+}
+
+.btn-azul {
+  background-color: #0e153a;
+  border: #0e153a 2px solid;
+  color: white;
+}
+
+.btn-azul:hover {
+  background-color: white;
+  border-color: #8011f2;
+  color: #8011f2;
+}
+
+.btn-violeta {
+  background-color: #8011f2;
+  border: #8011f2 2px solid;
+  color: white;
+}
+
+#carouselIndex .carousel-item img {
+  width: 100%;
+  max-height: 600px;
+  object-fit: cover;
+}
